@@ -2,13 +2,11 @@
 
 ---
 
-|                                                              |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [第一期](https://github.com/wlc743859910/GitHub_Weekly_Hot_spot_Summary/blob/master/Release/The_first_phase.md) 12月10日-12月16日 | [第二期](https://github.com/wlc743859910/GitHub_Weekly_Hot_spot_Summary/blob/master/Release/The_second_phase.md) 12月17日-12月23日 | [第三期](https://github.com/wlc743859910/GitHub_Weekly_Hot_spot_Summary/blob/master/Release/The_third_phase.md) 12月24日-12月30日 |
-| [第四期](https://github.com/wlc743859910/GitHub_Weekly_Hot_spot_Summary/blob/master/Release/The_fourth_phase.md) 01月01日-01月06日 | [第五期](https://github.com/wlc743859910/GitHub_Weekly_Hot_spot_Summary/blob/master/Release/The_fifth_phase.md) 01月07日-01月13日 | [第六期](https://github.com/wlc743859910/GitHub_Weekly_Hot_spot_Summary/blob/master/Release/The_sixth_phase.md) 01月14日-01月20日 |
-| [第七期](https://github.com/wlc743859910/GitHub_Weekly_Hot_spot_Summary/blob/master/Release/The_seventh_phase.md) 01月21日-01月27日 |                            第八期                            |                            第九期                            |
+| [第一期](https://github.com/wlc743859910/GitHub_Weekly_Hot_spot_Summary/blob/master/Release/The_first_phase.md) 12.10-12.16 | [第二期](https://github.com/wlc743859910/GitHub_Weekly_Hot_spot_Summary/blob/master/Release/The_second_phase.md) 12.17-12.23 | [第三期](https://github.com/wlc743859910/GitHub_Weekly_Hot_spot_Summary/blob/master/Release/The_third_phase.md) 12.24-12.30 |
+| [第四期](https://github.com/wlc743859910/GitHub_Weekly_Hot_spot_Summary/blob/master/Release/The_fourth_phase.md) 01.01-01.06 | [第五期](https://github.com/wlc743859910/GitHub_Weekly_Hot_spot_Summary/blob/master/Release/The_fifth_phase.md) 01.07-01.13 | [第六期](https://github.com/wlc743859910/GitHub_Weekly_Hot_spot_Summary/blob/master/Release/The_sixth_phase.md) 01.14-01.20 |
+| [第七期](https://github.com/wlc743859910/GitHub_Weekly_Hot_spot_Summary/blob/master/Release/The_seventh_phase.md) 01.21-01.27 |                            第八期                            |                            第九期                            |
 |                            第十期                            |                                                              |                                                              |
-|                                                              |                                                              |                                                              |
 
 ---
 
